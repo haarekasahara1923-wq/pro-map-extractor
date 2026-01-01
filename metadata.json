@@ -1,0 +1,7 @@
+{
+  "name": "MapLeads Pro",
+  "description": "A high-performance Google Maps business extractor for marketing leads. Search, consolidate, and export business data directly from Google Maps using AI-powered grounding.",
+  "requestFramePermissions": [
+    "geolocation"
+  ]
+}
